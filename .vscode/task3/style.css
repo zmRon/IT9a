@@ -1,0 +1,55 @@
+body {
+    font-family: "Times new Romans";
+    background-color: lightgrey;
+    color: black;
+    line-height: 1.6;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+h5 {
+    font-size: 16px;
+}
+
+p {
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+ul,
+ol {
+    text-align: left;
+    padding-left: 800px;
+}
+
+a {
+    font-size: 16px;
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+img {
+    background-color: rgb(0, 255, 170);
+    height: 200px;
+    width: 200px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: black;
+    border-radius: 100px;
+}
